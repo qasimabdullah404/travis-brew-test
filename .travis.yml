@@ -11,4 +11,5 @@ cache:
   directories:
     - $HOME/Library/Caches/Homebrew
     
-script: true
+script:
+    - echo done
